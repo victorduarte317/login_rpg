@@ -1,0 +1,328 @@
+// Valor da habilidade 1: //
+
+            if (Aleatorio < 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            // Valor da habilidade 2: //
+
+            if (Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio == 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            // Valor da habilidade 3: //
+
+            if (Aleatorio < 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 18 && Aleatorio < 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+
+            // Valor da habilidade 4: //
+
+            if (Aleatorio < 17)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 17 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio == 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            // Valor da habilidade 5: //
+
+            if (Aleatorio < 16)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 16 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio == 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+
+            // Valor da habilidade 6: //
+
+            if (Aleatorio < 15)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 15 && Aleatorio < 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 18 && Aleatorio < 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da habilidade 7: //
+
+            if (Aleatorio < 14)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 14 && Aleatorio < 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 18 && Aleatorio < 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da habilidade 8: //
+
+            if (Aleatorio < 13)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 13 && Aleatorio < 17)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 17 && Aleatorio < 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da habilidade 9: //
+
+            if (Aleatorio < 12)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 12 && Aleatorio < 17)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 17 && Aleatorio < 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio == 20)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da habilidade 10: //
+
+            if (Aleatorio < 11)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 11 && Aleatorio < 16)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 16 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da Habilidade: 11 //
+
+            if (Aleatorio < 10)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 10 && Aleatorio < 16)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 16 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da Habilidade: 12 //
+
+            if (Aleatorio < 9)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 9 && Aleatorio < 15)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 15 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da Habilidade: 13 //
+
+            if (Aleatorio < 8)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 8 && Aleatorio < 15)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 15 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da Habilidade: 14 //
+
+            if (Aleatorio < 7)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 7 && Aleatorio < 14)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 14 && Aleatorio < 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 19)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da Habilidade: 15 //
+
+            if (Aleatorio < 6)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 6 && Aleatorio < 14)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 14 && Aleatorio < 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
+
+            // Valor da Habilidade: 16 //
+
+            if (Aleatorio < 5)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "falhou no teste.");
+            }
+
+            else if (Aleatorio >= 5 && Aleatorio < 13)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso normal.");
+            }
+
+            else if (Aleatorio >= 13 && Aleatorio < 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso bom.");
+            }
+
+            else if (Aleatorio >= 18)
+            {
+                MessageBox.Show("Você tirou: " + Aleatorio, "sucesso extremo.");
+            }
