@@ -1,14 +1,12 @@
-Pega o arquivo, descompacta e executa pra vc entender como funciona.
+Pega o arquivo, descompacta e executa pra você entender como funciona.
 
-Entra no perfil do renel:
+Entra no perfil do Renel:
 
 username: hayatori
 senha: 135246
 
-dá uma olhada como eu fiz. O perfil dele tá "pronto", cada quadrado do lado da perícia é pra rodar o d20 e já tá retornando o valor e o tipo de sucesso pra cada habilidade. O outro arquivo txt tem o código correspondente a cada valor de habilidade, desde 1 até 16. 
+Dá uma olhada como eu fiz. O perfil dele tá "pronto", cada quadrado do lado da perícia é pra rodar o d20 e já tá retornando o valor e o tipo de sucesso pra cada habilidade. O outro arquivo txt tem o código correspondente a cada valor de habilidade, desde 1 até 16. 
 
-Vou te passar todas as fichas pra vc ir ajustando desse jeito aí
+Vou te passar todas as fichas pra você ir ajustando desse jeito aí
 
-Quando eu acordar, vou fazer as skills e os danos sipa.
-
-Acho q eh isso, to c bastante sono entao to meio lerdo ja
+Quando eu acordar, vou fazer as skills e os danos.
